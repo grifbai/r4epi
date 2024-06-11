@@ -137,7 +137,7 @@ As I said, the `readr` package and `readxl` package were developed by the same p
   
 * We used the `col_names`, `skip`, and `na` arguments in exactly the same way we used them in the read_csv function.
 
-You should be able to import most of the data stored in Excel spreadsheets with just the few options that we discussed above. However, there may be times were importing spreadsheets is even more complicated. If you find yourself in that position, I suggest that you first check out [the readxl website here](https://readxl.tidyverse.org/index.html).
+You should be able to import most of the data stored in Excel spreadsheets with just the few options that we discussed above. However, there may be times where importing spreadsheets is even more complicated. If you find yourself in that position, I suggest that you first check out [the readxl website here](https://readxl.tidyverse.org/index.html).
 
 ## Importing data from other statistical analysis software
 
